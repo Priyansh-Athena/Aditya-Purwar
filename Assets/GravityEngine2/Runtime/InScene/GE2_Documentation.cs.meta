@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 98e94e6cec6ab4f32a126793262b04f5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Runtime/InScene/GE2_Documentation.cs
+  uploadId: 806620

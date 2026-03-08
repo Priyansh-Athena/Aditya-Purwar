@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e58010ab24c7f4d72bf15d10adb116bc
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GoingFurther/4_ExternalForces/InverseRForce.unity
+  uploadId: 806620

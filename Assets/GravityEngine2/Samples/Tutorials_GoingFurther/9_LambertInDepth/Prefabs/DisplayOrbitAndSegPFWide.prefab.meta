@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1cd87a94997704acaa6aa30a46ee67f3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GoingFurther/9_LambertInDepth/Prefabs/DisplayOrbitAndSegPFWide.prefab
+  uploadId: 806620

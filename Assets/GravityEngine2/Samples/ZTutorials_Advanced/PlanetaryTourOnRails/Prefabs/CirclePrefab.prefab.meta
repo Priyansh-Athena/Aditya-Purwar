@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7d1d24cc8d5e4457db77bfd807cafb12
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/ZTutorials_Advanced/PlanetaryTourOnRails/Prefabs/CirclePrefab.prefab
+  uploadId: 806620

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2a108f3d09752ef45b28ebbe3b48dc80
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Runtime/Core/Transfers/Legacy/LambertUniversal.cs
+  uploadId: 806620

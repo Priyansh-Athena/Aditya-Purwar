@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4ad7ec46b1f614f7bb444b55bf7e6565
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Runtime/InScene/Utilities/TimeDisplay.cs
+  uploadId: 806620

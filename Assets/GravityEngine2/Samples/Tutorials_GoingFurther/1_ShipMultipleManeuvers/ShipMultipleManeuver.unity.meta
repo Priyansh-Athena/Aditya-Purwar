@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 73b41b1194b11ca4096d2c23cb63e419
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GoingFurther/1_ShipMultipleManeuvers/ShipMultipleManeuver.unity
+  uploadId: 806620

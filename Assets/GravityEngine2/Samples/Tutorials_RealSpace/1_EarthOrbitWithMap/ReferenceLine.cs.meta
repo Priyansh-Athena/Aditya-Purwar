@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e354f3c3a064b4b0f9df018061c28983
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_RealSpace/1_EarthOrbitWithMap/ReferenceLine.cs
+  uploadId: 806620

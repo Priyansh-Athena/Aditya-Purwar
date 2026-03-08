@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 850b31ad2d1014dafbd13495e5917f73
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Resources/Materials/RedSprite.mat
+  uploadId: 806620

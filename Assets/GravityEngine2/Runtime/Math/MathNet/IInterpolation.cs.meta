@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8f720e42facee4e9ebcd6ee3c3565508
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Runtime/Math/MathNet/IInterpolation.cs
+  uploadId: 806620

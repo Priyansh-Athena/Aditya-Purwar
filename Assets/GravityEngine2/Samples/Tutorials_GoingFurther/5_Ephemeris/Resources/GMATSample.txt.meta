@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c752ea0b7213d47b5b060cd471baf0fa
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GoingFurther/5_Ephemeris/Resources/GMATSample.txt
+  uploadId: 806620

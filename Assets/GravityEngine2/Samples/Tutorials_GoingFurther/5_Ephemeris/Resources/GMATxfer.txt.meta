@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 35785214fed49493e84e00d1a988db5e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GoingFurther/5_Ephemeris/Resources/GMATxfer.txt
+  uploadId: 806620

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 35f35a7c8c38349f9a71686bb1207db6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_RealSpace/2_SolarSystemBuilder/Resources/Materials/Deimos.mat
+  uploadId: 806620

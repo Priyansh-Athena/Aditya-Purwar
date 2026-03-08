@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4144a79de7e6f4db5a43e17a09926b98
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GoingFurther/8_DynamicsAddRemove/Prefabs/GSBodyDisplayOrbit.prefab
+  uploadId: 806620

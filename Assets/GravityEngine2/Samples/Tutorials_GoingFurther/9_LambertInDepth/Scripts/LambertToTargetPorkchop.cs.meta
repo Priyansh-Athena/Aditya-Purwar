@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0f6c36b506c1b4467af806426b923e97
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GoingFurther/9_LambertInDepth/Scripts/LambertToTargetPorkchop.cs
+  uploadId: 806620

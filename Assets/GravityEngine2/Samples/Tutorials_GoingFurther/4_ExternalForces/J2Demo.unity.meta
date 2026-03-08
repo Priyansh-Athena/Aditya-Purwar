@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b351a1574831404f8e6da36087d6fe6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GoingFurther/4_ExternalForces/J2Demo.unity
+  uploadId: 806620

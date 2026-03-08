@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5ba6ae6a1217d4f66a4a55e5e8bd635b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Runtime/Core/Propagators/KeplerCOEPropagator.cs
+  uploadId: 806620

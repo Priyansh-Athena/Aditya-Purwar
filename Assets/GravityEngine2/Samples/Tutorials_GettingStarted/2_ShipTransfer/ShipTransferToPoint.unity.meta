@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c9b16cbf68c7a47e69da46114c73d9b7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GettingStarted/2_ShipTransfer/ShipTransferToPoint.unity
+  uploadId: 806620

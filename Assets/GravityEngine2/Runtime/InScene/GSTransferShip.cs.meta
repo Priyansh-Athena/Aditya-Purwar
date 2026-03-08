@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 189a07c4aaf99c249a9cc594f041a321
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Runtime/InScene/GSTransferShip.cs
+  uploadId: 806620

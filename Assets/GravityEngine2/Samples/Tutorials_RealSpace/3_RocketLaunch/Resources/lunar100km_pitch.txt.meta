@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6dbb476280bbd48c49a4bf8e332cf7c3
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_RealSpace/3_RocketLaunch/Resources/lunar100km_pitch.txt
+  uploadId: 806620

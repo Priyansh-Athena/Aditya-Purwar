@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0e695e9451d204cdb9378fc3aa85c95b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GettingStarted/0_HelloOrbit/HelloOrbit.unity
+  uploadId: 806620

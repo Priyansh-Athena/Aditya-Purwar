@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f946269368af5444eadd3aa64c31672a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GoingFurther/9_LambertInDepth/1_LambertExplainer.unity
+  uploadId: 806620

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 54731384c131b425ea633f3b395a147e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Resources/Materials/LightBlueParticle.mat
+  uploadId: 806620

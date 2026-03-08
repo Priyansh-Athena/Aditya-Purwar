@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a7d7ef0b488ec47eb89643a03700f7c4
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_RealSpace/3_RocketLaunch/Resources/f9LaunchFixed.txt
+  uploadId: 806620

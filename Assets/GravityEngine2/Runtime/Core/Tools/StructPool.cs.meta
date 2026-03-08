@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c3f3d4a6fbdb241d98540fdcce92cb8f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Runtime/Core/Tools/StructPool.cs
+  uploadId: 806620

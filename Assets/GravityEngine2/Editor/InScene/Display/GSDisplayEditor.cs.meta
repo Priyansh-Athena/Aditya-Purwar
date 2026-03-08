@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c20439fcddc6abe49a8b7d4e96396f29
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Editor/InScene/Display/GSDisplayEditor.cs
+  uploadId: 806620

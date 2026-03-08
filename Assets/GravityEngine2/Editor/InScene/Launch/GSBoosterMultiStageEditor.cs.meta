@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5d3b4339f038b4917a11357468acd17f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Editor/InScene/Launch/GSBoosterMultiStageEditor.cs
+  uploadId: 806620

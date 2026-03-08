@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 28d8fc7cc1ec09d4b84f905fab0b9e13
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Runtime/nbodyphysics.ge2.asmdef
+  uploadId: 806620

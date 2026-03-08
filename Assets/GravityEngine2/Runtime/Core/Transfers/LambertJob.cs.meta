@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 50e2f31c2bb3c40f6bbbf0e4a6b2391c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Runtime/Core/Transfers/LambertJob.cs
+  uploadId: 806620

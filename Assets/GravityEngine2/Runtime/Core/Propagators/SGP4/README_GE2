@@ -1,0 +1,6 @@
+README_GE2
+
+Bizarely, files with the same name in different packages get messed up when both packages are impoerted. 
+
+To fix this, I've renamed the files to SGP4unit_GE2 and SGP4utils_GE2.
+

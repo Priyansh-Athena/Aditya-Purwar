@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b08fad0dd5674f4cac81f91ad140df6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Resources/Materials/GradientMaterial.mat
+  uploadId: 806620

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a03687157f2c40b49a1f8fc49a9c83db
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Runtime/Math/PolynomialSolver_GE2.cs
+  uploadId: 806620

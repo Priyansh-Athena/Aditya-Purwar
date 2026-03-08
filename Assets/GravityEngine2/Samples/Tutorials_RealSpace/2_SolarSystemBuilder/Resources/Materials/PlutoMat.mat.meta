@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b71767ab95b784b808108ee072a6c9ba
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_RealSpace/2_SolarSystemBuilder/Resources/Materials/PlutoMat.mat
+  uploadId: 806620

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 59b320695880c480bb3f5b93a429d678
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_RealSpace/3_RocketLaunch/EarthToOrbitF9.unity
+  uploadId: 806620

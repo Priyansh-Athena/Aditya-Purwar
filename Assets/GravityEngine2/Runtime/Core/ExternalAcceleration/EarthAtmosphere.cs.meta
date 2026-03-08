@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ab0aa12ea63c347c481058feea81845c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Runtime/Core/ExternalAcceleration/EarthAtmosphere.cs
+  uploadId: 806620

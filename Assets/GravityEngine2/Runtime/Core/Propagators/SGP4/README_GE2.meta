@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0af1a0565468d49059646f7477fc7d01
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Runtime/Core/Propagators/SGP4/README_GE2
+  uploadId: 806620

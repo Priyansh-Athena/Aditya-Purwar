@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 709ab11ee6b8541918492f3b4310e77b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_RealSpace/4_CisLunarSpace/TwinViewCameraController.cs
+  uploadId: 806620

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 483a24e1c3603486a8508d2c97da2b88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Runtime/InScene/Porkchop/DisplayFunctionAsMesh.cs
+  uploadId: 806620

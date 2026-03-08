@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9125eed9e3ea649af8abdb778c724cf9
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GoingFurther/9_LambertInDepth/5A_LambertDLPorkchop.unity
+  uploadId: 806620

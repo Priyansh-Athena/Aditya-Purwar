@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: adc9afcc92c74ac43ba7fea2f10ddd70
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GoingFurther/1_ShipMultipleManeuvers/Prefabs/ManeuverMarker.prefab
+  uploadId: 806620

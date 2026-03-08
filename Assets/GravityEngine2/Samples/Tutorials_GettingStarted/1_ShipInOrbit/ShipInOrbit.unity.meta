@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c4abfd10a50b8a4d839cddeaed6f9d9
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GettingStarted/1_ShipInOrbit/ShipInOrbit.unity
+  uploadId: 806620

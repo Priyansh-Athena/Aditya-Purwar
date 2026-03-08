@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7db2b588e9a754bfba35359fe2728d89
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GoingFurther/8_DynamicsAddRemove/DynamicAdd.unity
+  uploadId: 806620

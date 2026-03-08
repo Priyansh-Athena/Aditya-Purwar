@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 87a528798288445dc80a42602ca522d1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Editor/InScene/Display/GSDisplay2DCoroEditor.cs
+  uploadId: 806620

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3bbad7ab2628a43ce9aa0e68c5f81efe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Resources/PhysicsMaterials/Rubber.physicMaterial
+  uploadId: 806620

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 620944e32abd44d05bdbb2b332888bb5
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_RealSpace/4_CisLunarSpace/CisLunar_TwinView.unity
+  uploadId: 806620

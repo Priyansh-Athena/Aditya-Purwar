@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5f19d86805ecf4d6b84c04512c65f37d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Runtime/InScene/Particles/DustBall.cs
+  uploadId: 806620

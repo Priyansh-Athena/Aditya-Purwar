@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3b496752e310444a4a527113c34d78b2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Resources/Materials/TransparentGrey.mat
+  uploadId: 806620

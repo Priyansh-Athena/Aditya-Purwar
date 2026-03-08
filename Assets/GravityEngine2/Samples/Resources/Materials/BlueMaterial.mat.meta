@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c98f306eedccc4f05b8eb4029db2c7cd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Resources/Materials/BlueMaterial.mat
+  uploadId: 806620

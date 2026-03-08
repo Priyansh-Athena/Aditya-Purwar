@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 150653f51c54c4e908b22942125c4826
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Resources/Materials/OrangeLine.mat
+  uploadId: 806620

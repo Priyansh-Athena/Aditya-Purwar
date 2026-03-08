@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 52a713d6a795947d69747ff77822fc89
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Prefabs/DustBall.prefab
+  uploadId: 806620

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3a91d500bdf7b440aae1a1a6daaa2caf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Prefabs/GE2Camera.prefab
+  uploadId: 806620

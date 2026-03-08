@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bc74aacf900904baaa722a0f07d07f80
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GoingFurther/5_Ephemeris/Resources/XYTriangleCCW.txt
+  uploadId: 806620

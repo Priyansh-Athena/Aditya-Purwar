@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a895bde34204be54da09f0151ebba442
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GettingStarted/2_ShipTransfer/ShipTransfer.unity
+  uploadId: 806620

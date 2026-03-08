@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c3345bc2814444e9eb9e0612c3d4a05f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GettingStarted/1_ShipInOrbit/InteractiveOrbitController.cs
+  uploadId: 806620

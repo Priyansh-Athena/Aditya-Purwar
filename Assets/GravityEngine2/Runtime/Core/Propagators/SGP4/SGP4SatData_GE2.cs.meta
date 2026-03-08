@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c1b690085b60d6e469860d8151382474
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Runtime/Core/Propagators/SGP4/SGP4SatData_GE2.cs
+  uploadId: 806620

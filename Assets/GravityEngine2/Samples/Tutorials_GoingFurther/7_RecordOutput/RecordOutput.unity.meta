@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 91c5c1c7e3a44d840800a9c83f3b49b7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GoingFurther/7_RecordOutput/RecordOutput.unity
+  uploadId: 806620

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 94d0c1cb438394948bf9dd6e06e6e311
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GoingFurther/5_Ephemeris/Ephemeris.unity
+  uploadId: 806620

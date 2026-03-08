@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8b8b7c01381274646b2c1d2760c72087
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GoingFurther/9_LambertInDepth/5_LambertEarthMarsPorkchop2018.unity
+  uploadId: 806620

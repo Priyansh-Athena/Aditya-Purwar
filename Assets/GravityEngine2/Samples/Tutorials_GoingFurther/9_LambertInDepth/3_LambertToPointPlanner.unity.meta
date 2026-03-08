@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eb878b8a606854b68a41299c866d3639
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GoingFurther/9_LambertInDepth/3_LambertToPointPlanner.unity
+  uploadId: 806620

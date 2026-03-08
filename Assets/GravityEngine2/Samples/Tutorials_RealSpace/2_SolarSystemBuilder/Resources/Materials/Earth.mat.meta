@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 06b53c08fd63b45359e8399a8ac41daf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_RealSpace/2_SolarSystemBuilder/Resources/Materials/Earth.mat
+  uploadId: 806620

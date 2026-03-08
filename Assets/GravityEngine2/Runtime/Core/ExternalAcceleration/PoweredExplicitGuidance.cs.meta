@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d12f8a6f4cbea4f5f840a7158a27f81d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Runtime/Core/ExternalAcceleration/PoweredExplicitGuidance.cs
+  uploadId: 806620

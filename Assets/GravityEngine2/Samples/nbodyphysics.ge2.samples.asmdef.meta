@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 40b210f83c29b4264b3c2e4ef17c86e5
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/nbodyphysics.ge2.samples.asmdef
+  uploadId: 806620

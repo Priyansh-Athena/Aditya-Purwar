@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0af9ae926e3574af1aa9d7ccb0bedf05
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GettingStarted/3_KeplerPlanetAndMoon/KeplerPM.unity
+  uploadId: 806620

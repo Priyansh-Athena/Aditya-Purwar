@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 40557699d432c41e19fdb4335017d2d2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GoingFurther/5_Ephemeris/EphemerisGMAT.unity
+  uploadId: 806620

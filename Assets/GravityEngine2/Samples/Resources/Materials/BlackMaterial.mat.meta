@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f0630a4f548a04094a4f5e137279cca6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Resources/Materials/BlackMaterial.mat
+  uploadId: 806620

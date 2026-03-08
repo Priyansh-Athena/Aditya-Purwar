@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 68848235acfe648fb97e1c4f5c78ea19
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_GoingFurther/4_ExternalForces/IonDrive.unity
+  uploadId: 806620

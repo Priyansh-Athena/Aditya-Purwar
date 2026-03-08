@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1d711f6acb4ba41d284608b026ec8571
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/ZTutorials_Advanced/PlanetaryTourOnRails/PlanetTourController.cs
+  uploadId: 806620

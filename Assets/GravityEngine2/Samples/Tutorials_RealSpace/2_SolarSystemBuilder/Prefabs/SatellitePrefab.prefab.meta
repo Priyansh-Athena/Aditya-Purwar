@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1f35daaa4edeb4781a3b743b54cfd912
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Samples/Tutorials_RealSpace/2_SolarSystemBuilder/Prefabs/SatellitePrefab.prefab
+  uploadId: 806620

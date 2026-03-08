@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7c51ec97ace0aa541b96016a6c8fd737
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281698
+  packageName: Gravity Engine 2
+  packageVersion: 9.0
+  assetPath: Assets/GravityEngine2/Runtime/Core/Propagators/SGP4/SGP4utils_GE2.cs
+  uploadId: 806620
