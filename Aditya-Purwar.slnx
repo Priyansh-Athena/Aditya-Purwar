@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="nbodyphysics.ge2.csproj" />
+  <Project Path="ge2.samples.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+</Solution>
