@@ -17,10 +17,12 @@ public class earthScript : MonoBehaviour
         // 1. Safety check: does the line have points?
         if (ellipseRenderer == null || ellipseRenderer.positionCount == 0) return;
         Vector3 targetPos = ellipseRenderer.GetPosition(targetIndex);
-        float height = Vector3.Distance(transform.position, sun.position);
+        float side1 = Vector3.Distance(transform.position, sun.position);
+        float side2 = Vector3.Distance(targetPos, sun.position);
         float base1 = Vector3.Distance(transform.position, targetPos);
         // 2. Get the specific world position of our current target point
-        float area = height * base1 * 0.5f;
+        float s = (side1+side2+base1)/2;
+        float area = Mathf.Sqrt(s*(s-side1)*(s-side2)*(s-base1));
         float timeTaken = area/speedConstant;
         speed = base1/timeTaken;
         // 3. Move towards it
