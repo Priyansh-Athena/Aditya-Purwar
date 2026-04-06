@@ -7,6 +7,9 @@ public class EllipseGenCode : MonoBehaviour
     public float totalDistance = 10.5f; // Sum of distances to foci (must be > distance between foci)
     public int segments = 75;
     public float eccentricity = 0;
+    public float a;
+    public float b;
+    public focus1script focus1Code;
     private LineRenderer lr;
 
     void Awake() => lr = GetComponent<LineRenderer>();
@@ -22,11 +25,11 @@ public class EllipseGenCode : MonoBehaviour
         float focalDist2c = Vector3.Distance(focus1.position, focus2.position);
         
         // Ensure the total distance is valid
-        if (totalDistance <= focalDist2c+4) totalDistance = focalDist2c + 7.8f;
+        if (totalDistance <= focalDist2c+4) totalDistance = focalDist2c + (focus1Code.size)+7f;
 
-        float a = totalDistance / 2f;               // Semi-major axis
-        float c = focalDist2c / 2f;                // Distance from center to focus
-        float b = Mathf.Sqrt(a * a - c * c);       // Semi-minor axis
+        a = totalDistance / 2f;               // Semi-major axis
+        float c = focalDist2c / 2f;           // Distance from center to focus
+        b = Mathf.Sqrt(a * a - c * c);       // Semi-minor axis
         eccentricity = c/a;
 
         Vector3 center = (focus1.position + focus2.position) / 2f;

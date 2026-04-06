@@ -5,9 +5,12 @@ using UnityEngine.UI;
 public class logicScript : MonoBehaviour
 {
     public EllipseGenCode ellipseCode;
+    public earthScript earthCode;
     public focus1script focus1Code;
     public Slider TotalSlider;
     public Slider FocusSlider;
+    public Slider MassSlider;
+    public Slider SpeedSlider;
     public Text eccentricity;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -16,6 +19,8 @@ public class logicScript : MonoBehaviour
         focus1Code = GameObject.FindGameObjectWithTag("Actors").GetComponent<focus1script>();
         TotalSlider.onValueChanged.AddListener(UpdateMajor);
         FocusSlider.onValueChanged.AddListener(UpdateFocus);
+        MassSlider.onValueChanged.AddListener(UpdateMass);
+        SpeedSlider.onValueChanged.AddListener(UpdateSpeed);
         
     }
 
@@ -29,6 +34,15 @@ public class logicScript : MonoBehaviour
         focus1Code.xValue = value;
     }
 
+    void UpdateMass(float value)
+    {
+        focus1Code.size = value *2;
+    }
+
+    void UpdateSpeed(float value)
+    {
+        earthCode.multiplier = value;
+    }
     void Update()
     {
         eccentricity.text = $"Eccentricity: {ellipseCode.eccentricity}";
