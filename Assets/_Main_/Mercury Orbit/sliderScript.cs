@@ -15,8 +15,5 @@ public class sliderScript : MonoBehaviour
         mercScript.multiplier = value;
     }
     // Update is called once per frame
-    void Update()
-    {
 
-    }
 }
