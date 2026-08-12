@@ -48,7 +48,7 @@ public class ISSOrbitManager : MonoBehaviour
     [SerializeField] private float positionRefreshSeconds = 1f;
 
     [Tooltip("1 = real time, 60 = one simulated minute per real second.")]
-    [SerializeField] private float simulationTimeScale = 1f;
+    [SerializeField] public float simulationTimeScale = 1f;
 
     [Tooltip("Use this if your ISS model faces sideways/backwards.")]
     [SerializeField] private Vector3 modelRotationOffsetEuler = Vector3.zero;
