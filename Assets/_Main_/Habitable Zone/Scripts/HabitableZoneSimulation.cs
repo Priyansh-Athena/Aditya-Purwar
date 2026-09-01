@@ -313,10 +313,7 @@ public sealed class HabitableZoneSimulation : MonoBehaviour
             simulationCamera.orthographic = !use3D;
         }
 
-        if (modeText != null)
-        {
             modeText.text = use3D ? "3D View" : "2D Top View";
-        }
 
         if (spheresOnlyIn3D)
         {
