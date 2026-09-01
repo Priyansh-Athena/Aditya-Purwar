@@ -6,8 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/_Main_/HomePage/Title_Page_Demo.unity
+    guid: f3ccc290354821d45abd01f0af7eb0bf
+  - enabled: 1
+    path: Assets/_Main_/HomePage/HomeScene.unity
+    guid: d7f6e9aaae3db438ab4149c402244e3e
+  - enabled: 1
+    path: Assets/_Main_/Habitable Zone/Scenes/Habitable Zone 1.unity
+    guid: 10f3a1f4e9b06ab46a24020298d9f22e
+  - enabled: 1
+    path: Assets/_Main_/ISS Orbit/ISS.unity
+    guid: 2d9f46fed6796654288b6b87933d800b
+  - enabled: 1
+    path: Assets/_Main_/Mercury Orbit/MercuryOrbit_Adi.unity
+    guid: e4aa68655b32746dca73668e6871aada
+  - enabled: 1
+    path: Assets/_Main_/scriptFolder/Earth Orbit 1.unity
+    guid: 02367659c6510e44e9d1e5396483a0f3
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
